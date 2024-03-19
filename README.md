@@ -1,4 +1,5 @@
 ## Resources:
+* [Github google-api-python-client](https://github.com/googleapis/google-api-python-client?tab=readme-ov-file)
 * [Google Calendar API Python Quickstart](https://developers.google.com/calendar/api/quickstart/python)
 * [Querying calendar events via the Google Calendar API](https://chrieke.medium.com/querying-calendar-events-via-the-google-calendar-api-771782e24f62)
 * [Google Calendar Automation in Python](https://www.youtube.com/watch?v=B2E82UPUnOY&t=172s)
